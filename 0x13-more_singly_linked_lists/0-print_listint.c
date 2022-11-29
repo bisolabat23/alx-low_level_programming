@@ -5,7 +5,6 @@
  * @h: pointer to head of list
  * Return: number of elements
  */
-
 size_t print_listint(const listint_t *h)
 {
 	register size_t count = 0;
